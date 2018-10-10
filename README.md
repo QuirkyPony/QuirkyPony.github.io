@@ -1,6 +1,6 @@
 # QuirkyPony
 Hello, World! this is my GitHub Pages site, for people wanting to know about me and my projects!
----
+
 ## My Projects
 As for my projects, I have currently this rather small [shell lock screen](https://quirkypony.giyhub.io/shell-lock-screen) thingy going, however, it is pretty much done, so I am looking for some other things to do. I already have some things in mind, which would fit nicely with me learning java.
 
